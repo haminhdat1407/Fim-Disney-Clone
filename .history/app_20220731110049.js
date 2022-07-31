@@ -1,0 +1,18 @@
+const carousel = document.querySelector('.carousel');
+let slider = [];
+
+let slideIndex = 0;
+
+const createSlide = () => {
+  if (slideIndex >= movies.length) {
+    slideIndex = 0;
+  }
+
+  //creating DOM Element
+  let slide = document.createElement('div');
+  let imgElement = document.createElement('div');
+  let slide = document.createElement('div');
+  let slide = document.createElement('div');
+  let slide = document.createElement('div');
+  let slide = document.createElement('div');
+};
